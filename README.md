@@ -1,4 +1,4 @@
-This project is a customized version of an open-source PHP project for learning and portfolio purposes.
+This project is a customized version of an open-source PHP project for learning and portfolio purposes.- Dhruv Patel
 <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg" width="100"></p>
 <p align="center">Shopping Cart Solution - CodeIgniter and Bootstrap</p>
  
